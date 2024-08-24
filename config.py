@@ -83,7 +83,7 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://telegra.ph/file/c36a2ae21b47dd1fed3bc.jpg"
+    "START_IMG_URL", "https://telegra.ph/file/ca2785980e4819cbb66b7.jpg"
 )
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://telegra.ph/file/6f7ef59ad200f7d9ac596.jpg"
